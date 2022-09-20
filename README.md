@@ -3,3 +3,5 @@ University Exam Sign up is a single page dynamic java web app made using technol
 # User Interface
 
 ![image](https://user-images.githubusercontent.com/73352918/191350188-cb7ff04b-e086-449b-a941-765aacd91865.png)
+# User details submitted.
+
